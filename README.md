@@ -1,4 +1,3 @@
-[AI Manipulation Face Recog.pdf](https://github.com/elykin/Face-Attendance-Recognition/files/14110156/AI.Manipulation.Face.Recog.pdf)# Face-Attendance-Recognition
 AI manipulation using OpenCV, Operating System, and pickle embeddings
 
 # Face Recognition App
